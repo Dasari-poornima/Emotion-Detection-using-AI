@@ -24,4 +24,3 @@ keras cmd = "pip install keras"
 
 Note : use Annaconda Prompt to execute Accurately
 
-refer this video : https://youtu.be/duEkbMjvPcE
