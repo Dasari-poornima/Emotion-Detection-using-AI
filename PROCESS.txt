@@ -1,0 +1,32 @@
+EMOTION DETECTION USING AI
+
+
+3 STEPS involved
+1.collecting the dataset for various emotion.
+2.applying deep leaarning for training the prediction model.
+3.using the model to predict the emotion.
+
+
+Step 1:preparing dataset
+1.we have5 classes 
+   angry
+   happy
+   neutral
+   sad
+   surprise
+step 2:
+TRAINING OUR PREDICTION MODEL
+in this we have 3 steps.
+1.import required libraries
+2.use the images&labels for training the model.
+3.Train the model using keras&tensorflow based on given parameters
+step 3: Emotion detection using ai
+we require 3 source files.
+1.Face Classifier(xml file)=This classifier will be used for face detection(it will dtect whether any face is there or not because once the face is detected then only we can detect the emotion)
+2.Emotion Detection(h5 file)=This ids the training model which will be predicting the emotion
+3.test.py=This python file will be the executing this project
+
+IMPLEMENTATION
+
+https://www.youtube.com/watch?v=PulKlAZRoAY&t=549s
+ 
