@@ -3,7 +3,7 @@ EMOTION DETECTION USING AI
 
 3 STEPS involved
 1.collecting the dataset for various emotion.
-2.applying deep leaarning for training the prediction model.
+2.applying deep learning for training the prediction model.
 3.using the model to predict the emotion.
 
 
